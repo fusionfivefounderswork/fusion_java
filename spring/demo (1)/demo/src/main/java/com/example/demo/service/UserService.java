@@ -1,17 +1,17 @@
-package com.example.demo.service;
+// package com.example.demo.service;
 
-import java.util.List;
+// import java.util.List;
 
-import com.example.demo.dto.UserDto;
-import com.example.demo.entity.UserEntity;
+// import com.example.demo.dto.UserDto;
+// import com.example.demo.entity.UserEntity;
 
-public interface UserService {
+// public interface UserService {
 
-    UserDto createUser(UserDto user);
+//     UserDto createUser(UserDto user);
 
-    // List<User> getAllUsers();
+//     // List<User> getAllUsers();
 
-    // User getUserById(Long id);
+//     // User getUserById(Long id);
 
-    // void deleteUser(Long id);
-}
+//     // void deleteUser(Long id);
+// }
